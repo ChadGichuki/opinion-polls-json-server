@@ -6,7 +6,7 @@
       "option1": {
         "image": "https://c8.alamy.com/comp/2C5PP4H/downtown-skyline-from-the-top-of-the-kicc-tower-nairobi-kenya-east-africa-2C5PP4H.jpg",
         "label": "Nairobi",
-        "votes": 1
+        "votes": 3
       },
       "option2": {
         "image": "https://media.istockphoto.com/photos/panorama-of-cairo-picture-id1180786967?k=20&m=1180786967&s=612x612&w=0&h=-beRT5TLGlfeLmJP9m7Nv_8CKcM5kcrV-coR3fbvE_0=",
@@ -20,12 +20,12 @@
       "option1": {
         "image": "https://www.topgear.com/sites/default/files/images/news-article/2021/05/c23ec92f4af14abd5cb77e6a683767df/manhart-golf-gti-290-website-2.jpeg?w=1280&h=720",
         "label": "VW Golf",
-        "votes": 0
+        "votes": 3
       },
       "option2": {
         "image": "https://image.shutterstock.com/image-photo/strasbourg-france-06-july-2018-260nw-1508413289.jpg",
         "label": "Subaru Impreza",
-        "votes": 0
+        "votes": 4
       }
     },
     {
@@ -34,12 +34,12 @@
       "option1": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png",
         "label": "Python",
-        "votes": 0
+        "votes": 2
       },
       "option2": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/480px-Ruby_logo.svg.png",
         "label": "Ruby",
-        "votes": 0
+        "votes": 3
       }
     },
     {
@@ -48,12 +48,12 @@
       "option1": {
         "image": "https://i.ytimg.com/vi/mQLV9qjnK60/maxresdefault.jpg",
         "label": "The Big Bang Theory",
-        "votes": 0
+        "votes": 1
       },
       "option2": {
         "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BEA544D7476F6C33E23CB73494F462BAF5F9A247B41B335F74094773F4112C03/scale?width=1200&aspectRatio=1.78&format=jpeg",
         "label": "How I met your mother",
-        "votes": 0
+        "votes": 5
       }
     },
     {
@@ -62,13 +62,27 @@
       "option1": {
         "image": "https://media.wired.com/photos/6149204955f7b3aea723343d/master/pass/Gear-Review-Apple_iPhone-13-Pro_Colors_09142021.jpg",
         "label": "Iphone 13 Pro Max",
-        "votes": 0
+        "votes": 4
       },
       "option2": {
         "image": "https://i0.wp.com/www.bovic.co.ke/wp-content/uploads/2022/02/samsung-Galaxy-S22-ultra-2.jpg?fit=700%2C374&ssl=1",
         "label": "Samsung Galaxy S22 Ultra",
-        "votes": 0
+        "votes": 1
       }
+    },
+    {
+      "question": "Which of these 2 leagues is more entertaining",
+      "option1": {
+        "image": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-06/premier-league-logo-june-2022.jpg?itok=nNMitGZL",
+        "label": "The EPL",
+        "votes": 1
+      },
+      "option2": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png",
+        "label": "LALIGA",
+        "votes": 0
+      },
+      "id": 6
     }
   ]
 }
