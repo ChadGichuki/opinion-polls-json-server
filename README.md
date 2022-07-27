@@ -1,4 +1,4 @@
-# JSON Server Template
+# Opinion-Polls-JSON-Server
 
 ## Setup
 

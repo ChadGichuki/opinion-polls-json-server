@@ -6,7 +6,7 @@
       "option1": {
         "image": "https://c8.alamy.com/comp/2C5PP4H/downtown-skyline-from-the-top-of-the-kicc-tower-nairobi-kenya-east-africa-2C5PP4H.jpg",
         "label": "Nairobi",
-        "votes": 3
+        "votes": 4
       },
       "option2": {
         "image": "https://media.istockphoto.com/photos/panorama-of-cairo-picture-id1180786967?k=20&m=1180786967&s=612x612&w=0&h=-beRT5TLGlfeLmJP9m7Nv_8CKcM5kcrV-coR3fbvE_0=",
@@ -20,7 +20,7 @@
       "option1": {
         "image": "https://www.topgear.com/sites/default/files/images/news-article/2021/05/c23ec92f4af14abd5cb77e6a683767df/manhart-golf-gti-290-website-2.jpeg?w=1280&h=720",
         "label": "VW Golf",
-        "votes": 3
+        "votes": 4
       },
       "option2": {
         "image": "https://image.shutterstock.com/image-photo/strasbourg-france-06-july-2018-260nw-1508413289.jpg",
@@ -80,7 +80,7 @@
       "option2": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png",
         "label": "LALIGA",
-        "votes": 0
+        "votes": 1
       },
       "id": 6
     }
