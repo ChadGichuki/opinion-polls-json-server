@@ -56,14 +56,9 @@ While your server is running, you can make requests to
 [http://localhost:3000](http://localhost:3000). Check it out in the browser to
 make sure your server works!
 
-## Deploying the Server
+## Deployment
 
-Free services like Heroku make it simple to deploy your Node server. Heroku also
-works nicely with Rails, which you'll learn later in the program.
-
-First, download the [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up).
-
-Then, [deploy your app](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app).
+The app is currently deployed on heroku at https://dry-forest-65259.herokuapp.com/
 
 Since Heroku deployment integrates with your git repo, you can easily deploy
 changes to your database. To deploy changes, make sure to commit your code:
